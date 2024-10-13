@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\računanjePDV-a\bin\Debug\računanjePDV-a.exe.config
+C:\Users\Korisnik\source\repos\računanjePDV-a\bin\Debug\računanjePDV-a.exe
+C:\Users\Korisnik\source\repos\računanjePDV-a\bin\Debug\računanjePDV-a.pdb
+C:\Users\Korisnik\source\repos\računanjePDV-a\obj\Debug\računanjePDV-a.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\računanjePDV-a\obj\Debug\računanjePDV-a.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\računanjePDV-a\obj\Debug\računanjePDV-a.exe
+C:\Users\Korisnik\source\repos\računanjePDV-a\obj\Debug\računanjePDV-a.pdb
